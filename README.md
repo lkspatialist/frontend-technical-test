@@ -6,12 +6,6 @@ Le but de ce test est d'évaluer vos compétences techniques en frontend afin qu
 * Votre workflow Git
 * Le respect des consignes fournies
 
-Vous avez le droit de poser des questions sur le test si c'est pas assez clair.
-
-Vous avez tous le temps que vous souhaitez pour le faire mais pas trop longtemps non plus :laughing:.
-
-Pour le style de l'application, vous avez carte blanche ! Laisser libre cours à votre créativité :+1:
-
 ## Sujet
 Nous souhaitons une application web pour **lister et capturer des pokémons** avec des **Pokéballs**. Après une capture, le pokémon se retrouvera dans notre **sac à dos**.
 
@@ -24,6 +18,11 @@ Nous pourrons ensuite ouvrir notre sac à dos pour **voir tous nos pokémons cap
 * L'application fonctionne
 * Textes en français ou en anglais.
 * Respecter le sujet et les critères obligatoires :smile:
+
+## Informations supplémentaires
+* Vous avez le droit de poser des questions sur le test si c'est pas assez clair.
+* Vous avez tous le temps que vous souhaitez pour le faire mais pas trop longtemps non plus :laughing:.
+* Pour le style de l'application, vous avez carte blanche ! Laisser libre cours à votre créativité :+1:
 
 ## Des idées pour aller plus loin
 * Lorsqu'on rencontre un nouveau pokémon, le rajouter directement dans le **Pokédex** qui serait consultable à tout moments.
