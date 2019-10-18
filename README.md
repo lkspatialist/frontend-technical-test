@@ -25,8 +25,8 @@ Nous pourrons ensuite ouvrir notre sac à dos pour **voir tous nos pokémons cap
 * Pour le style de l'application, vous avez carte blanche ! Laisser libre cours à votre créativité :+1:
 
 ## Des idées pour aller plus loin
-* Lorsqu'on rencontre un nouveau pokémon, le rajouter directement dans le **Pokédex** qui serait consultable à tout moments.
 * Lister les pokémons sur une carte avec **Leaflet** (ou autre service de cartographie) pour être bien immerger dans la chasse au pokémon !
+* Lorsqu'on rencontre un nouveau pokémon, le rajouter directement dans le **Pokédex** qui serait consultable à tout moment.
 * Simuler une capture de pokémon aléatoirement et si la capture échoue, le pokémon peut avoir la possibilité de s'enfuir.
 * Si on quitte l'application et qu'on la réouvre, retrouver notre sac à dos (et Pokédex) comme avant.
 * ... libre à votre imagination ! :star:
